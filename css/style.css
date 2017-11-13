@@ -641,6 +641,9 @@ box-shadow: 1px 1px 3px #000;
 	.blockimgs img{
 		width: 250px;
 	}
+	footer h3{
+	font-size: 20px;   
+	}
 	
 }
 
@@ -690,6 +693,9 @@ box-shadow: 1px 1px 3px #000;
 	}
 	.call-to-action-text h3{
 		font-size: 20px;		
+	}
+	footer h3{
+		font-size: 16px;   
 	}
 	.btn{
 		width: 200px;
